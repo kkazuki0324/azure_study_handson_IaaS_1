@@ -80,4 +80,4 @@
 
 # 次の Exercise へ
 
-* [ネットワークセキュリティグループ作成](exercise02.md)
+* [Exercise1: ネットワーク作成](exercise02.md)

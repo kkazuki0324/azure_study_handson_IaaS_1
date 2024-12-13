@@ -143,4 +143,4 @@
 
 # 次の Exercise へ
 
-* [ARMテンプレート利用](exercise04.md)
+* [Exercise4: Bastion利用](exercise04.md)
