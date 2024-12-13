@@ -2,7 +2,7 @@
 
 ## 【目次】
 
-![](images/ex06-0000-bastion.png)
+![](images/ex04-0000-bastion.png)
 
 1. [RDPポートを閉じる](#rdpポートを閉じる)
 1. [Bastion用サブネット作成](#bastion用サブネット作成)

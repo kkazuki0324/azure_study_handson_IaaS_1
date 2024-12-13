@@ -25,4 +25,4 @@
 * ネットワーク知識
 
 ## ハンズオン資料
-1. [ハンズオン](/docs/exercise01.md)
+ [ハンズオン](/docs/exercise01.md)
