@@ -25,6 +25,4 @@
 * ネットワーク知識
 
 ## ハンズオン資料
-
-<!-- 1. [環境準備](/docs/handson-prepare.md) -->
-1. [ハンズオン](/docs/README.md)
+1. [ハンズオン](/docs/exercise01.md)
