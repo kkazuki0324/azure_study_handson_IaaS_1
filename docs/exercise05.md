@@ -24,6 +24,8 @@
         * 地域： `Japan East`
         * パフォーマンス： `Standard`
         * 冗長性： `LRS`
+        
+        ![](images/ex05-0101-files.png)
 
     1. 「詳細設定」ページ ~ 「タグ」ページ
 
@@ -39,23 +41,25 @@
 
 1. [データストレージ]-[ファイル共有]を開く
 
+    ![](images/ex05-0201-files.png)
+
 1. 「ファイル共有」を選択、「新しいファイル共有」で以下を設定して、「作成」
 
     * 名前： (任意)
     * レベル： `トランザクションが最適化されました`
 
-    ![](images/ex03-0101-files.png)
+    ![](images/ex05-0202-files.png)
 
 
 ## Filesをマウント
 
 1. 作成した「ファイル共有」の「・・・（メニュー）」を開き「接続」を選択
 
-    ![](images/ex03-0301-files.png)
+    ![](images/ex05-0301-files.png)
 
 1. 「Show Script」を押下して表示されるスクリプトをメモしておく
 
-    ![](images/ex03-0302-files.png)
+    ![](images/ex05-0302-files.png)
 
 1. 作成済みの仮想マシンへRDP接続
 
@@ -63,21 +67,21 @@
 
 1. メモしておいたスクリプトを貼り付けて実行
 
-    ![](images/ex03-0303-files.png)
+    ![](images/ex05-0303-files.png)
 
 1. ドライブとして接続されていることを確認
 
-    ![](images/ex03-0304-files.png)
+    ![](images/ex05-0304-files.png)
 
 1. ドライブに入って適当なファイルを作成
 
-    ![](images/ex03-0305-files.png)
+    ![](images/ex05-0305-files.png)
 
 1. Azureポータルに戻って Files の中身を確認
 
     ファイルが追加されていることを確認
 
-    ![](images/ex03-0306-files.png)
+    ![](images/ex05-0306-files.png)
 
 
 
