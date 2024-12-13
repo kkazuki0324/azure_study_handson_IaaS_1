@@ -81,4 +81,4 @@
 
 # 次の Exercise へ
 
-* [仮想マシン作成/接続](exercise03.md)
+* [Exercise3: 仮想マシン作成/接続](exercise03.md)
