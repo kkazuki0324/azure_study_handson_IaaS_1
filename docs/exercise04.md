@@ -130,7 +130,7 @@
 
 1. RDPクライアントを使った接続ができていればOK
 
-    ![](images/ex06-0501-bastion.png)
+    ![](images/ex04-0011.png)
 
 # 次の Exercise へ
 
