@@ -80,4 +80,4 @@
 
 # 次の Exercise へ
 
-* [Exercise1: ネットワーク作成](exercise02.md)
+* [Exercise2: ネットワーク作成](exercise02.md)
