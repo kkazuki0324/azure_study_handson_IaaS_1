@@ -2,7 +2,7 @@
 
 ## 【目次】
 
-![](images/ex00-0000-completed.png)
+![](images/ex05-0000.png)
 
 1. [ストレージアカウント作成](#ストレージアカウント作成)
 1. [Filesを作成](#filesを作成)
