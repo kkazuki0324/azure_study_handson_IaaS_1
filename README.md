@@ -1,4 +1,4 @@
-# [Azure Study] 02 IaaS Hands-on
+# [Azure Study] IaaS Hands-on
 
 ## 目的
 
